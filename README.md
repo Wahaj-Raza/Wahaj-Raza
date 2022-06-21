@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋![Hi There ! I am Wahaj Raza](https://user-images.githubusercontent.com/103155321/174880527-8ac05417-fa7b-47b4-a0d7-f8448d2f1873.gif)
+
 
 <!--
 **Wahaj-Raza/Wahaj-Raza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
