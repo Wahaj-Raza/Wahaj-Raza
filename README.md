@@ -3,7 +3,6 @@
 <img src="https://user-images.githubusercontent.com/103155321/174880527-8ac05417-fa7b-47b4-a0d7-f8448d2f1873.gif"/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahaj-raza&label=Profile%20views&color=0e75b6&style=flat" alt="wahaj-raza" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahaj-raza" alt="wahaj-raza" /></a> </p>
 
